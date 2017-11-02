@@ -1,6 +1,6 @@
 {
   "name": "@liveauctioneers/react-hoverintent",
-  "version": "0.0.10",
+  "version": "0.1.0",
   "description": "A simple react implementation over jquery-hoverintent",
   "scripts": {
     "lint": "eslint src",
